@@ -1,7 +1,7 @@
 <style>
 </style>
 <template>
-<view className = "container" >
+<view class = "container" >
     我的页面
     </view>
 </template>
