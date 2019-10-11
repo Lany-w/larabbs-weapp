@@ -1,13 +1,25 @@
 {
-  "description": "coder-s project",
-  "setting": {
-    "urlCheck": true,
-    "es6": false,
-    "postcss": false,
-    "minified": false
-  },
-  "compileType": "miniprogram",
-  "appid": "wx4a99ceb238627e7a",
-  "projectname": "coder-s",
-  "miniprogramRoot": "./dist"
+	"description": "coder-s project",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"appid": "wx4a99ceb238627e7a",
+	"projectname": "coder-s",
+	"miniprogramRoot": "dist/",
+	"condition": {}
 }
